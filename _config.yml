@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-title: tara's research page
+# main title
+title: tara forstner
+# subtitle
 description: my research page
   # where [HELPER] is the name of the helper you are overriding.
 version:          1.0.0
