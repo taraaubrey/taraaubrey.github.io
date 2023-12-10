@@ -7,17 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            tara forstner
-tagline:          'A Simple Website'
-description:      'a research website'
-url:              https://taraaubrey.github.io
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Tara Forstner'
-  url:            https://www.waterways.ac.nz/tara-forstner-phd
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
-version:          0.0.1
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
